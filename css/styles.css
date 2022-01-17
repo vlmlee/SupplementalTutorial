@@ -14,5 +14,27 @@
 }
 
 .text-container {
+    max-width: 1000px;
+}
 
+.front-page-text {
+    padding: 20px 0;
+}
+
+footer {
+    background-color: #4f4f4f;
+    height: 60px;
+    color: #eee;
+    font-size: .8rem;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.control-width {
+    max-width: 1200px;
+    margin-bottom: 20px;
+}
+
+.card-container {
+    margin-bottom: 20px;
 }
