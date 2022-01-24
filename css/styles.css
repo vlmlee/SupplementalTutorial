@@ -52,3 +52,13 @@ footer {
     color: cornflowerblue;
     border-color: lightblue;
 }
+
+.accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #007FFF;
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+}
+
+.accordion-container {
+    margin-bottom: 15px;
+}

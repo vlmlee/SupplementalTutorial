@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2f45e62-6476-49bc-8c62-f0802a7a8fd9" name="Default Changelist" comment="" />
+    <list default="true" id="f2f45e62-6476-49bc-8c62-f0802a7a8fd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/research/research1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/research2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/research3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="23p71pEPaoKaGYTlblTkrvUjZGx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +44,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642418962390</updated>
-      <workItem from="1642418964175" duration="6936000" />
+      <workItem from="1642418964175" duration="7053000" />
+      <workItem from="1642995853471" duration="2252000" />
     </task>
     <servers />
   </component>
