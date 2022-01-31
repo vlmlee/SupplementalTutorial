@@ -62,3 +62,24 @@ footer {
 .accordion-container {
     margin-bottom: 15px;
 }
+
+.typography-container {
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+
+.typography-body {
+    margin-top: 15px;
+    background-color: #efefef;
+    padding: 30px 30px;
+}
+
+.typography-body .row .col {
+    padding: 30px 15px;
+    border-bottom: 1px #ddd solid;
+}
+
+.typography-body .row:last-child .col{
+    border-bottom: none;
+    padding-bottom: 15px;
+}
