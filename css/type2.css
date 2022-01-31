@@ -1,0 +1,52 @@
+.typography-body {
+    font-family: "Times New Roman", serif;
+    font-size: 16px;
+}
+
+.typography-body h1 {
+    font-size: 3.052rem;
+    font-style: normal;
+}
+
+.typography-body h2 {
+    font-size: 2.441rem;
+    font-style: normal;
+}
+
+.typography-body h3 {
+    font-size: 1.953rem;
+    font-style: normal;
+}
+
+.typography-body h4 {
+    font-size: 1.563rem;
+    font-style: normal;
+}
+
+.typography-body h5 {
+    font-size: 1.25rem;
+    font-style: normal;
+}
+
+.typography-body p {
+    font-family: Menlo, sans-serif;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.typography-body a {
+    font-family: Menlo, sans-serif;
+    color: #007ebe !important;
+    font-size: 1rem;
+}
+
+.typography-body a:hover {
+    color: #888 !important;
+    cursor: pointer;
+}
+
+.typography-body em {
+    font-family: Menlo, sans-serif;
+    font-size: 1rem;
+    font-style: italic;
+}
